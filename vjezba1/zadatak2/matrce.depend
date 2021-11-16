@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1634829979 source:c:\users\tomo\desktop\faks 2. godina\objektno\matrce\matrice.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
