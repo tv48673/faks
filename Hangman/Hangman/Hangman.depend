@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1638392959 source:c:\users\tomo\desktop\faks 2. godina\hangman\hangman\controller.cpp
+	"Controller.h"
+
+1639036804 c:\users\tomo\desktop\faks 2. godina\hangman\hangman\controller.h
+	"Model.h"
+	<iostream>
+
+1638386777 c:\users\tomo\desktop\faks 2. godina\hangman\hangman\model.h
+	<iostream>
+	<string>
+	<fstream>
+	<algorithm>
+	<time.h>
+
+1638392906 source:c:\users\tomo\desktop\faks 2. godina\hangman\hangman\model.cpp
+	"Model.h"
+	<iostream>
+
+1638394304 source:c:\users\tomo\desktop\faks 2. godina\hangman\hangman\view.cpp
+	"View.h"
+	"Model.h"
+	<fstream>
+	<iostream>
+
+1638384093 c:\users\tomo\desktop\faks 2. godina\hangman\hangman\view.h
+	<iostream>
+	"Controller.h"
+
+1638392995 source:c:\users\tomo\desktop\faks 2. godina\hangman\hangman\main.cpp
+	<iostream>
+	"Controller.h"
+	"Model.h"
+	"View.h"
+
