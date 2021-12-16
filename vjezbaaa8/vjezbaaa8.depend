@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1639595730 source:c:\users\tomo\desktop\faks 2. godina\objektno\vjezbaaa8\dodatno.cpp
+
+1639648513 c:\users\tomo\desktop\faks 2. godina\objektno\vjezbaaa8\dodatno.h
+	"vrime.h"
+
+1639669438 c:\users\tomo\desktop\faks 2. godina\objektno\vjezbaaa8\vrime.h
+	<iostream>
+
+1639668910 source:c:\users\tomo\desktop\faks 2. godina\objektno\vjezbaaa8\main.cpp
+	<iostream>
+	<vector>
+	"vrime.h"
+	"dodatno.h"
+	<algorithm>
+
+1639669515 source:c:\users\tomo\desktop\faks 2. godina\objektno\vjezbaaa8\vrime.cpp
+	"vrime.h"
+	"dodatno.h"
+
