@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="vj9_zd2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/vj9_zd2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="brojac.cpp" />
+		<Unit filename="brojac.h" />
+		<Unit filename="kukac.cpp" />
+		<Unit filename="kukac.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="pauk.cpp" />
+		<Unit filename="pauk.h" />
+		<Unit filename="ptica.cpp" />
+		<Unit filename="ptica.h" />
+		<Unit filename="tarantula.cpp" />
+		<Unit filename="tarantula.h" />
+		<Unit filename="vrabac.cpp" />
+		<Unit filename="vrabac.h" />
+		<Unit filename="zivotinja.cpp" />
+		<Unit filename="zivotinja.h" />
+		<Unit filename="zohar.cpp" />
+		<Unit filename="zohar.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1642089352 source:c:\users\tomo\desktop\faks 2. godina\objektno\vj9zaad1\game.cpp
+	"game.h"
+
+1642087656 c:\users\tomo\desktop\faks 2. godina\objektno\vj9zaad1\game.h
+	"HumanPlayer.h"
+	"Computerplayer.h"
+
+1642080400 c:\users\tomo\desktop\faks 2. godina\objektno\vj9zaad1\humanplayer.h
+	"player.h"
+
+1642081689 c:\users\tomo\desktop\faks 2. godina\objektno\vj9zaad1\player.h
+	<vector>
+	<iostream>
+
+1642080400 c:\users\tomo\desktop\faks 2. godina\objektno\vj9zaad1\computerplayer.h
+	"player.h"
+
+1642082775 source:c:\users\tomo\desktop\faks 2. godina\objektno\vj9zaad1\player.cpp
+	<algorithm>
+	"player.h"
+
+1642015626 source:c:\users\tomo\desktop\faks 2. godina\objektno\vj9zaad1\computerplayer.cpp
+	<algorithm>
+	"ComputerPlayer.h"
+
+1642082975 source:c:\users\tomo\desktop\faks 2. godina\objektno\vj9zaad1\humanplayer.cpp
+	<algorithm>
+	"HumanPlayer.h"
+
+1642081731 source:c:\users\tomo\desktop\faks 2. godina\objektno\vj9zaad1\main.cpp
+	"time.h"
+	"game.h"
+
