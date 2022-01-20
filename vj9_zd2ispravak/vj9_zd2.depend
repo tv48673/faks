@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1641832532 source:c:\users\tomo\desktop\faks 2. godina\objektno\vj9_zd2\kukac.cpp
+	"Kukac.h"
+
+1641989629 c:\users\tomo\desktop\faks 2. godina\objektno\vj9_zd2\kukac.h
+	"Zivotinja.h"
+
+1642705021 c:\users\tomo\desktop\faks 2. godina\objektno\vj9_zd2\zivotinja.h
+	<string>
+
+1641832532 source:c:\users\tomo\desktop\faks 2. godina\objektno\vj9_zd2\pauk.cpp
+	"Pauk.h"
+
+1642705020 c:\users\tomo\desktop\faks 2. godina\objektno\vj9_zd2\pauk.h
+	"Zivotinja.h"
+
+1641832532 source:c:\users\tomo\desktop\faks 2. godina\objektno\vj9_zd2\ptica.cpp
+	"Ptica.h"
+
+1642705021 c:\users\tomo\desktop\faks 2. godina\objektno\vj9_zd2\ptica.h
+	"Zivotinja.h"
+
+1641990487 source:c:\users\tomo\desktop\faks 2. godina\objektno\vj9_zd2\tarantula.cpp
+	"Tarantula.h"
+
+1642704944 c:\users\tomo\desktop\faks 2. godina\objektno\vj9_zd2\tarantula.h
+	"Pauk.h"
+
+1641990487 source:c:\users\tomo\desktop\faks 2. godina\objektno\vj9_zd2\vrabac.cpp
+	"Vrabac.h"
+
+1642704944 c:\users\tomo\desktop\faks 2. godina\objektno\vj9_zd2\vrabac.h
+	"Ptica.h"
+
+1641990397 source:c:\users\tomo\desktop\faks 2. godina\objektno\vj9_zd2\zivotinja.cpp
+	"Zivotinja.h"
+
+1641990487 source:c:\users\tomo\desktop\faks 2. godina\objektno\vj9_zd2\zohar.cpp
+	"Zohar.h"
+
+1642704944 c:\users\tomo\desktop\faks 2. godina\objektno\vj9_zd2\zohar.h
+	"Kukac.h"
+
+1641990549 source:c:\users\tomo\desktop\faks 2. godina\objektno\vj9_zd2\brojac.cpp
+	"Brojac.h"
+
+1642704944 c:\users\tomo\desktop\faks 2. godina\objektno\vj9_zd2\brojac.h
+	"Zivotinja.h"
+	<iostream>
+	<vector>
+
+1642704750 source:c:\users\tomo\desktop\faks 2. godina\objektno\vj9_zd2\main.cpp
+	"Vrabac.h"
+	"Tarantula.h"
+	"Zohar.h"
+	"Brojac.h"
+
