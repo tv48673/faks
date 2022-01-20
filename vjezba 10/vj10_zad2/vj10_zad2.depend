@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1642675328 source:c:\users\tomo\desktop\faks 2. godina\objektno\vj10_zad2\main.cpp
+	<iostream>
+	"Stack.h"
+
+1642698592 c:\users\tomo\desktop\faks 2. godina\objektno\vj10_zad2\stack.h
+	<iostream>
+
+1642623827 source:c:\users\tomo\desktop\faks 2. godina\objektno\vj10_zad2\stack.cpp
+	"Stack.h"
+
