@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1643233612 source:c:\users\tomo\desktop\faks 2. godina\objektno\vj5zad1\position.cpp
+	"Position.h"
+
+1643233248 c:\users\tomo\desktop\faks 2. godina\objektno\vj5zad1\position.h
+	<random>
+
+1643232673 source:c:\users\tomo\desktop\faks 2. godina\objektno\vj5zad1\main.cpp
+	<iostream>
+	"Position.h"
+

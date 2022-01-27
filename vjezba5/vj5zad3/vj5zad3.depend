@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1643235665 source:c:\users\tomo\desktop\faks 2. godina\objektno\vj5zad3\position.cpp
+	"Position.h"
+
+1643235665 c:\users\tomo\desktop\faks 2. godina\objektno\vj5zad3\position.h
+	<random>
+
+1643235680 source:c:\users\tomo\desktop\faks 2. godina\objektno\vj5zad3\main.cpp
+	<iostream>
+	"meta.h"
+
+1643235665 c:\users\tomo\desktop\faks 2. godina\objektno\vj5zad3\meta.h
+	"Position.h"
+	<time.h>
+
+1643303058 source:c:\users\tomo\desktop\faks 2. godina\objektno\vj5zad3\meta.cpp
+	"meta.h"
+
+1643303058 source:c:\users\tomo\desktop\faks 2. godina\objektno\vj5zad3\pistolj.cpp
+	"pistolj.h"
+
+1643235815 c:\users\tomo\desktop\faks 2. godina\objektno\vj5zad3\pistolj.h
+	"Position.h"
+	<iostream>
+
+1643235680 source:c:\users\tomo\desktop\vjezba5\vj5zad3\main.cpp
+	<iostream>
+	"meta.h"
+
+1643305543 c:\users\tomo\desktop\vjezba5\vj5zad3\meta.h
+	"Position.h"
+	<time.h>
+
+1643305541 c:\users\tomo\desktop\vjezba5\vj5zad3\position.h
+	<random>
+
+1643303121 source:c:\users\tomo\desktop\vjezba5\vj5zad3\meta.cpp
+	"meta.h"
+
+1643235665 source:c:\users\tomo\desktop\vjezba5\vj5zad3\position.cpp
+	"Position.h"
+

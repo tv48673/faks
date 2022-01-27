@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1643233991 source:c:\users\tomo\desktop\faks 2. godina\objektno\vj5zad2\position.cpp
+	"Position.h"
+
+1643233991 c:\users\tomo\desktop\faks 2. godina\objektno\vj5zad2\position.h
+	<random>
+
+1643235191 source:c:\users\tomo\desktop\faks 2. godina\objektno\vj5zad2\pistolj.cpp
+	"pistolj.h"
+
+1643235191 c:\users\tomo\desktop\faks 2. godina\objektno\vj5zad2\pistolj.h
+	"Position.h"
+	<iostream>
+
+1643234976 source:c:\users\tomo\desktop\faks 2. godina\objektno\vj5zad2\main.cpp
+	<iostream>
+	"Position.h"
+	"pistolj.h"
+
+1643305388 source:c:\users\tomo\desktop\vjezba5\vj5zad2\main.cpp
+	<iostream>
+	"Position.h"
+	"pistolj.h"
+
+1643233991 c:\users\tomo\desktop\vjezba5\vj5zad2\position.h
+	<random>
+
+1643305596 c:\users\tomo\desktop\vjezba5\vj5zad2\pistolj.h
+	"Position.h"
+	<iostream>
+
+1643233991 source:c:\users\tomo\desktop\vjezba5\vj5zad2\position.cpp
+	"Position.h"
+
+1643305388 source:c:\users\tomo\desktop\vjezba5\vj5zad2\pistolj.cpp
+	"pistolj.h"
+

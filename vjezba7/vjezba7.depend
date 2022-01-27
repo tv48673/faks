@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1638998559 source:c:\users\tomo\desktop\faks 2. godina\objektno\vjezba7\board.cpp
+	"Board.h"
+	<cstring>
+
+1643305221 c:\users\tomo\desktop\faks 2. godina\objektno\vjezba7\board.h
+	<iostream>
+	"Point.h"
+
+1643305204 c:\users\tomo\desktop\faks 2. godina\objektno\vjezba7\point.h
+
+1639037357 source:c:\users\tomo\desktop\faks 2. godina\objektno\vjezba7\point.cpp
+	"Point.h"
+
+1643304168 source:c:\users\tomo\desktop\faks 2. godina\objektno\vjezba7\main.cpp
+	<iostream>
+	"Board.h"
+
