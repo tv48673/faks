@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1643132539 source:c:\users\tomo\desktop\faks 2. godina\objektno\vj3zad4\main.cpp
+	<iostream>
+	<vector>
+	<time.h>
+

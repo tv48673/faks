@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1643212532 source:c:\users\tomo\desktop\faks 2. godina\objektno\vj3zad2\main.cpp
+	<iostream>
+	<vector>
+	"unos.h"
+
+1643212862 c:\users\tomo\desktop\faks 2. godina\objektno\vj3zad2\unos.h
+	<iostream>
+	<time.h>
+	<vector>
+
+1643212862 source:c:\users\tomo\desktop\faks 2. godina\objektno\vj3zad2\unos.cpp
+	"unos.h"
+

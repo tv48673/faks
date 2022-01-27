@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1637007663 source:c:\users\tomo\desktop\faks 2. godina\objektno\vjezba2zad4\main.cpp
+	"Vector.h"
+	<iostream>
+
+1637089436 c:\users\tomo\desktop\faks 2. godina\objektno\vjezba2zad4\vector.h
+
+1637008722 source:c:\users\tomo\desktop\faks 2. godina\objektno\vjezba2zad4\vjezba2zad4.cpp
+	"Vector.h"
+	<iostream>
+
+1637008722 source:c:\users\tomo\desktop\vjezba 2\vjezba2zad4\vjezba2zad4.cpp
+	"Vector.h"
+	<iostream>
+
+1637089436 c:\users\tomo\desktop\vjezba 2\vjezba2zad4\vector.h
+
+1637843158 source:c:\users\tomo\desktop\vjezba 2\vjezba2zad4\main.cpp
+	"Vector.h"
+	<iostream>
+

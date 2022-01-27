@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1643217300 source:c:\users\tomo\desktop\faks 2. godina\objektno\vj3zad6\main.cpp
+	<vector>
+	<iostream>
+	<algorithm>
+	<string>
+
